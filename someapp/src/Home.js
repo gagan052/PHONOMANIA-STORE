@@ -26,7 +26,7 @@ const Home = () => {
         return;
       }
 
-      const response = await fetch('https://phonomania-backend.onrender.com/api/cart/add', {
+      const response = await fetch('https://phonomania-store.onrender.com/api/cart/add', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
