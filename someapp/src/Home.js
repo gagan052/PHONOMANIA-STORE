@@ -191,7 +191,7 @@ const Home = () => {
                   <i className="fas fa-map-marker-alt" />
                   <div className="cta-text">
                     <h4>Find us</h4>
-                    <span>Sector-71, Mohali, chandigarh</span>
+                    <span>Ambala city,Haryana</span>
                   </div>
                 </div>
               </div>
@@ -200,7 +200,7 @@ const Home = () => {
                   <i className="fas fa-phone" />
                   <div className="cta-text">
                     <h4>Call us</h4>
-                    <span>8507931092</span>
+                    <span>9728422008</span>
                   </div>
                 </div>
               </div>
@@ -209,7 +209,7 @@ const Home = () => {
                   <i className="far fa-envelope-open" />
                   <div className="cta-text">
                     <h4>Mail us</h4>
-                    <span>rishuarora850727@gmail.com</span>
+                    <span>gagansaini7207@gmail.com</span>
                   </div>
                 </div>
               </div>
@@ -276,7 +276,7 @@ const Home = () => {
             <div className="row">
               <div className="col-xl-6 col-lg-6 text-center text-lg-left">
                 <div className="copyright-text">
-                <p><center>Copyright © 2023, All Right Reserved <a href="#">Rishu</a></center></p>
+                <p><center>Copyright © 2023, All Right Reserved <a href="#">Gagan</a></center></p>
                 </div>
               </div>
               <div className="col-xl-6 col-lg-6 d-none d-lg-block text-right">
